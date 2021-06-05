@@ -1,1 +1,1 @@
-# nodemcu-arduino-ticker-and-logo-display
+# Nodemcu Arduino Ticker and Logo Display
